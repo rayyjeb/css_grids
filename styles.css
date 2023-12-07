@@ -5,7 +5,7 @@
 body {
     text-align: center;
     padding-top: 10%;
-    background-image: url(/Bg.jpg);
+    background-image: url(./Bg.jpg);
     background-size: cover;
     color: white;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
